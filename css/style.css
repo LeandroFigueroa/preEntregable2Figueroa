@@ -43,3 +43,19 @@
 .navhover:hover{
     background-color: blueviolet;
 }
+
+.footer-about {
+    width: 100%;
+    height: 81px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.about-img{
+
+    margin-top: 7%;
+    margin-bottom: 2%;
+
+}
